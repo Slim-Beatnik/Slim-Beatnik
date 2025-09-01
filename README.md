@@ -57,3 +57,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> Ruby  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="RSpec" width="40" height="40"/> RSpec  
 </p>
+
+---
+
+### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/3dkylehill/)  
+<!-- 🌐 [Portfolio](your-portfolio-link-here)  -->
+- 📧 [Email Me](mailto:kyledhillswe@gmail.com)
+
+
+
+## 👋 About Me
+
+- 🔭 I’m currently working on building fullstack applications with React, Flask, and SQLAlchemy  
+- 🌱 I’m currently learning all about the job market, and deepening my front-end skills with the goal of achieving the fullstack certificate from Coding Temple!
+- 👯 I’m looking to collaborate on open-source projects related to web development or backend services  
+- 🤔 I’m looking for help with improving my DevOps / CI/CD automation skills, and gain valuable experience. 
+- 💬 Ask me about Python, JavaScript, databases, and turning ideas into working projects  
+- ⚡ Fun fact: I have 4 kids ages with an age gap of 17 years between the oldest and youngest🚀
