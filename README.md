@@ -1,4 +1,5 @@
  👋 Hey there, I'm Kyle!
+ <br>
 ![Codewars](https://www.codewars.com/users/Slim-Beatnik/badges/large?theme=dark)
 
 💻 I'm a **Full-stack Software Engineer** who learned via [Coding Temple](https://www.codingtemple.com/) with a passion for building **scalable web applications** and crafting clean, efficient code.  
