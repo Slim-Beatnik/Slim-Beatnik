@@ -1,13 +1,11 @@
-## 👋 Hey there, I'm Kyle!
+ 👋 Hey there, I'm Kyle!
 ![Codewars](https://www.codewars.com/users/Slim-Beatnik/badges/large?theme=dark)
 
 💻 I'm a **Full-stack Software Engineer** who learned via [Coding Temple](https://www.codingtemple.com/) with a passion for building **scalable web applications** and crafting clean, efficient code.  
 🚀 Skilled in **Python, JavaScript, React, Flask, SQLAlchemy, and MySQL**, with a growing interest in **fullstack development**.  
 📚 I enjoy solving problems through code, exploring new frameworks, and continuously leveling up my skills.  
 🌟 Currently working on projects that combine **front-end interactivity** with **robust back-end systems**.  
-
----
-
+@@ -11,7 +11,53 @@
 ### 🌱 What I'm Up To
 - 🔨 Building projects with **React + Flask + SQLAlchemy**
 - 📖 Deepening my knowledge of **databases & API design**
@@ -20,18 +18,8 @@
 <!-- Version Control -->
 **Version Control & Collaboration**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /> Git  
-  <!-- GitHub with white background -->
-  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml" 
-           style="display:flex;justify-content:center;align-items:center;
-                  width:100%;height:100%;background:white;border-radius:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-             alt="GitHub" width="28" height="28"/>
-      </div>
-    </foreignObject>
-  </svg> GitHub 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> GitHub  
 </p>
 
 <!-- Frontend -->
@@ -49,26 +37,8 @@
 **Backend & Databases**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
-  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml" 
-           style="display:flex;justify-content:center;align-items:center;
-                  width:100%;height:100%;background:white;border-radius:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-             alt="Flask" width="28" height="28"/>
-      </div>
-    </foreignObject>
-  </svg> Flask 
-   <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml" 
-           style="display:flex;justify-content:center;align-items:center;
-                  width:100%;height:100%;background:white;border-radius:6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
-             alt="SQLAlchemy" width="28" height="28"/>
-      </div>
-    </foreignObject>
-  </svg> SQLAlchemy 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> Flask  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/> SQLAlchemy  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> SQLite  
 </p>
@@ -86,21 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> Ruby  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="RSpec" width="40" height="40"/> RSpec  
 </p>
-
----
-
-### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/3dkylehill/)  
-<!-- 🌐 [Portfolio](your-portfolio-link-here)  -->
-- 📧 [Email Me](mailto:kyledhillswe@gmail.com)
-
-
-
-## 👋 About Me
-
-- 🔭 I’m currently working on building fullstack applications with React, Flask, and SQLAlchemy  
-- 🌱 I’m currently learning all about the job market, and deepening my front-end skills with the goal of achieving the fullstack certificate from Coding Temple!
-- 👯 I’m looking to collaborate on open-source projects related to web development or backend services  
-- 🤔 I’m looking for help with improving my DevOps / CI/CD automation skills, and gain valuable experience. 
-- 💬 Ask me about Python, JavaScript, databases, and turning ideas into working projects  
-- ⚡ Fun fact: I have 4 kids ages with an age gap of 17 years between the oldest and youngest🚀
