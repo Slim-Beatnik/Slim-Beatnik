@@ -21,15 +21,12 @@
 **Version Control & Collaboration**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /> Git  
-  <svg width="40 height="40">
-    <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-     alt="GitHub"
-     width="40"
-     height="40"
-    />
-    <circle cx="100" cy="50" r="40 fill="white" />
-  </svg>GitHub 
+  <!-- GitHub with white background -->
+  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="40" height="40" fill="white" rx="6" ry="6"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+           width="28" height="28" x="6" y="6"/>
+  </svg> GitHub
 </p>
 
 <!-- Frontend -->
@@ -47,12 +44,16 @@
 **Backend & Databases**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-     alt="Flask" width="40" height="40" 
-     style="background-color:white; border-radius:6px; padding:4px;"/> Flask
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
-     alt="SQLAlchemy" width="40" height="40" 
-     style="background-color:white; border-radius:6px; padding:4px;"/> SQLAlchemy  
+  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="40" height="40" fill="white" rx="6" ry="6"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+           width="28" height="28" x="6" y="6"/>
+  </svg> Flask  
+  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+    <rect width="40" height="40" fill="white" rx="6" ry="6"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
+           width="28" height="28" x="6" y="6"/>
+  </svg> SQLAlchemy 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> SQLite  
 </p>
