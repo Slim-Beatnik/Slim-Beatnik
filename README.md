@@ -21,9 +21,15 @@
 **Version Control & Collaboration**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /> Git  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-     alt="GitHub" width="40" height="40" 
-     style="background-color:white; border-radius:6px; padding:4px;"/> GitHub 
+  <svg width="40 height="40">
+    <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+     alt="GitHub"
+     width="40"
+     height="40"
+    />
+    <circle cx="100" cy="50" r="40 fill="white" />
+  </svg>GitHub 
 </p>
 
 <!-- Frontend -->
