@@ -23,10 +23,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /> Git  
   <!-- GitHub with white background -->
   <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="40" height="40" fill="white" rx="6" ry="6"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-           width="28" height="28" x="6" y="6"/>
-  </svg> GitHub
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml" 
+           style="display:flex;justify-content:center;align-items:center;
+                  width:100%;height:100%;background:white;border-radius:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+             alt="GitHub" width="28" height="28"/>
+      </div>
+    </foreignObject>
+  </svg> GitHub 
 </p>
 
 <!-- Frontend -->
@@ -45,14 +50,24 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
   <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="40" height="40" fill="white" rx="6" ry="6"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-           width="28" height="28" x="6" y="6"/>
-  </svg> Flask  
-  <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <rect width="40" height="40" fill="white" rx="6" ry="6"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
-           width="28" height="28" x="6" y="6"/>
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml" 
+           style="display:flex;justify-content:center;align-items:center;
+                  width:100%;height:100%;background:white;border-radius:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+             alt="Flask" width="28" height="28"/>
+      </div>
+    </foreignObject>
+  </svg> Flask 
+   <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml" 
+           style="display:flex;justify-content:center;align-items:center;
+                  width:100%;height:100%;background:white;border-radius:6px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
+             alt="SQLAlchemy" width="28" height="28"/>
+      </div>
+    </foreignObject>
   </svg> SQLAlchemy 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> SQLite  
