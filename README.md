@@ -6,7 +6,7 @@
 🚀 Skilled in **Python, JavaScript, React, Flask, SQLAlchemy, and MySQL**, with a growing interest in **fullstack development**.  
 📚 I enjoy solving problems through code, exploring new frameworks, and continuously leveling up my skills.  
 🌟 Currently working on projects that combine **front-end interactivity** with **robust back-end systems**.  
-@@ -11,7 +11,53 @@
+
 ### 🌱 What I'm Up To
 - 🔨 Building projects with **React + Flask + SQLAlchemy**
 - 📖 Deepening my knowledge of **databases & API design**
